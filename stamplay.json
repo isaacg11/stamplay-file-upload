@@ -1,0 +1,10 @@
+{
+  "appId": "file-app",
+  "apiKey": "19da6a9d4138815007d5456dd115c463b702367f1d6402d9badead7bac06c029",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
